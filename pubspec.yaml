@@ -1,4 +1,4 @@
-name: sliver_fab
+name: sliver_fab_null_safety
 description: A wrapper widget allowing to place a widget on the edge of FlexibleSpacebar
 version: 2.0.0
 homepage: https://github.com/MrAndrixx/sliver_fab_null_safety
